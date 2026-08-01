@@ -6,6 +6,8 @@
   [![React](https://img.shields.io/badge/React-18.3.1-61DAFB.svg?style=flat-square&logo=react)](https://reactjs.org/)
   [![Vite](https://img.shields.io/badge/Vite-6.0.1-646CFF.svg?style=flat-square&logo=vite)](https://vitejs.dev/)
   [![TailwindCSS](https://img.shields.io/badge/Tailwind-3.4.16-38B2AC.svg?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
+  [![License](https://img.shields.io/badge/License-Proprietary-red.svg?style=flat-square)](./LICENSE.md)
+  [![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/4G5ZxQT5T)
   <br/>
   <br/>
   <a href="#english">English</a> | <a href="#español">Español</a>
@@ -35,7 +37,6 @@
   <br/>
   
   <img width="49%" alt="1" src="https://github.com/user-attachments/assets/0b1a2b25-f2a9-4549-af8d-7435eedc0d63" />
-  <img width="49%" alt="2" src="https://github.com/user-attachments/assets/c9ae995d-baf2-4041-aec0-c7e2e82adcc1" />
   
   <img width="49%" alt="3" src="https://github.com/user-attachments/assets/cd102bd5-6a0a-4831-b81d-4f4106f6a0c9" />
   <img width="49%" alt="4" src="https://github.com/user-attachments/assets/aca58620-71c8-4e26-98c0-29db3197fb56" />
@@ -52,13 +53,21 @@
   <img width="49%" alt="9" src="https://github.com/user-attachments/assets/a6dcdbbb-1081-4eef-8416-c06c5cb7ff98" />
 </details>
 
+### Community & Beta Testing
+
+Want early access before public release? We run a closed beta for tournament organizers, streamers, casters and competitive players.
+
+- 🌐 Website: [ftnhud.com.ar](https://ftnhud.com.ar)
+- 🧪 Apply to the beta: [ftnhud.com.ar/beta.html](https://ftnhud.com.ar/beta.html)
+- 💬 Discord: [discord.gg/4G5ZxQT5T](https://discord.gg/4G5ZxQT5T)
+
 ### Licensing and Contact
 
-For commercial inquiries, licensing, custom installation, or technical support, please get in touch through the official channels.
+This is proprietary, commercial software — see [LICENSE.md](./LICENSE.md) and [TERMS.md](./TERMS.md). For commercial inquiries, licensing, custom installation, or technical support, please get in touch through the official channels.
 
 - **Developer:** Fran
 - **Email:** [fransb082@gmail.com](mailto:fransb082@gmail.com)
-- **Discord:** franthenegro
+- **Discord:** franthenegro (or join the [server](https://discord.gg/4G5ZxQT5T))
 
 ---
 <div align="center">
@@ -89,7 +98,6 @@ For commercial inquiries, licensing, custom installation, or technical support, 
   <br/>
   
   <img width="49%" alt="1" src="https://github.com/user-attachments/assets/0b1a2b25-f2a9-4549-af8d-7435eedc0d63" />
-  <img width="49%" alt="2" src="https://github.com/user-attachments/assets/c9ae995d-baf2-4041-aec0-c7e2e82adcc1" />
   
   <img width="49%" alt="3" src="https://github.com/user-attachments/assets/cd102bd5-6a0a-4831-b81d-4f4106f6a0c9" />
   <img width="49%" alt="4" src="https://github.com/user-attachments/assets/aca58620-71c8-4e26-98c0-29db3197fb56" />
@@ -106,13 +114,21 @@ For commercial inquiries, licensing, custom installation, or technical support, 
   <img width="49%" alt="9" src="https://github.com/user-attachments/assets/a6dcdbbb-1081-4eef-8416-c06c5cb7ff98" />
 </details>
 
+### Comunidad y Beta Testing
+
+¿Querés acceso anticipado antes del lanzamiento público? Tenemos una beta cerrada para organizadores de torneos, streamers, casters y jugadores competitivos.
+
+- 🌐 Web: [ftnhud.com.ar](https://ftnhud.com.ar)
+- 🧪 Aplicá a la beta: [ftnhud.com.ar/beta.html](https://ftnhud.com.ar/beta.html)
+- 💬 Discord: [discord.gg/4G5ZxQT5T](https://discord.gg/4G5ZxQT5T)
+
 ### Adquisición y Contacto
 
-Para consultas comerciales, licencias de uso, instalación personalizada o soporte técnico, póngase en contacto a través de los canales oficiales.
+Este es un software propietario y comercial — ver [LICENSE.md](./LICENSE.md) y [TERMS.md](./TERMS.md). Para consultas comerciales, licencias de uso, instalación personalizada o soporte técnico, póngase en contacto a través de los canales oficiales.
 
 - **Desarrollador:** Fran
 - **Email:** [fransb082@gmail.com](mailto:fransb082@gmail.com)
-- **Discord:** franthenegro
+- **Discord:** franthenegro (o unite al [servidor](https://discord.gg/4G5ZxQT5T))
 
 ---
 <div align="center">
